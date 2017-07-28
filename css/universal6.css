@@ -69,8 +69,8 @@ body {
 .portfolio {
   display: block;
   position: fixed;
-  top: 35%;
-  left: -270px;
+  top: 50%;
+  left: -330px;
   font-family: 'Source Code Pro', sans-serif;
   letter-spacing: 0.1px;
   z-index: 9;
@@ -98,8 +98,8 @@ body {
 .shows {
   display: block;
   position: fixed;
-  top: 22%;
-  left: -270px;
+  top: 30%;
+  left: -340px;
   font-family: 'Source Code Pro', sans-serif;
   letter-spacing: 0.1px;
   z-index: 9;
@@ -127,8 +127,8 @@ body {
 .contact {
 display: block;
 position: fixed;
-top: 31%;
-left: -260px;
+top: 40%;
+left: -320px;
 font-family: 'Source Code Pro', sans-serif;
 letter-spacing: 0.1px;
 z-index: 9;
@@ -157,8 +157,8 @@ transform: rotate(90deg);
 .aboutme {
   display: block;
   position: fixed;
-  top: 31%;
-  left: -320px;
+  top: 45%;
+  left: -340px;
   font-family: 'Source Code Pro', sans-serif;
   letter-spacing: 0.1px;
   z-index: 9;
